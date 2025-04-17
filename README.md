@@ -37,9 +37,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## PROGRAM:
-Developed by : **KABELAN G K**
+Developed by : **RISHI R**
 
-Reg no : **21222411027**
+Reg no : **212224040277**
 ```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
